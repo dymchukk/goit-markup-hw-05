@@ -693,10 +693,6 @@ fill: currentColor;
 .join-icon{
 width: 20px;
 height: 20px;
-
-}
-.join-icon{
-fill: currentColor;
 }
 .join-link:hover, .join-link:focus{
 background-color: var(--accent-color);
