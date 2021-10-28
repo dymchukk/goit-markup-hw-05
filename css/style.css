@@ -379,10 +379,8 @@ border-radius: 0px 0px 4px 4px;
   background: #f5f4fa;
 }
 .team-title-text {
-  padding-top: 20px;
-  padding-bottom: 20px;
-  padding-left: 24px;
-  padding-right: 24px;
+  padding: 30px;
+  
 }
 .nav {
   display: flex;
@@ -624,7 +622,6 @@ fill:currentColor;
 .team-sotial {
   display: flex;
   justify-content: center;
-  margin-bottom: 30px;
 }
 .customers-list{
 list-style: none;
