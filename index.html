@@ -42,7 +42,16 @@
         <section class="solution-col">
             <div class="container">
         <h1 class="solution">Эффективные решения<br> для вашего бизнеса</h1>
-            <button class="btn" type="button">Заказать услугу</button>
+            <button data-modal-open class="btn" type="button">Заказать услугу</button>
+            </div>
+            <div class="backdrop is-hidden"data-modal>
+
+                <div class="modal">
+                       <p></p>
+                       <button data-modal-close>
+                           <a  class="close" href="./images/close-black.png">X</a>
+                       </button>
+                </div> 
             </div>
         </section>
                                        
@@ -379,6 +388,7 @@
         </div>
         </div>
     </footer>
+    <script src="./js/modal.js"></script>
 </body>
 
 </html>
