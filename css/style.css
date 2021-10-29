@@ -758,8 +758,8 @@ transition:opacity 250ms cubic-bezier(0.4, 0, 0.2, 1),visibility 250ms cubic-bez
 position: absolute;
 width: 18px;
 height: 18px;
-top:0;
-right:0;
+top:2px;
+right:2px;
 
 }
 .work-modal{
