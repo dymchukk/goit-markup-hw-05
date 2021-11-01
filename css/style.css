@@ -377,6 +377,9 @@ h2 {
   line-height: 1.18;
   margin-bottom: 10px;
 }
+.team-title-text {
+  padding-top: 30px;
+}
 .card-text {
   margin-top: 20px;
 }
